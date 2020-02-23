@@ -15,6 +15,5 @@ else
   end
 
 end
-return block_return_values
 
 end
