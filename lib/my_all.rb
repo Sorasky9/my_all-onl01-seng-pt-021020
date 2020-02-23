@@ -8,7 +8,7 @@ block_return_values = []
     block_return_values << yield(collection[i])
     i = i += 1
 
-if block_return_values.include?(false)
+if block_return_values.include?(i < 3)
   false
 else
   false
