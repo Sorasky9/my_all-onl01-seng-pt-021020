@@ -11,7 +11,7 @@ block_return_values = []
 if block_return_values.include?(i < 3)
   false
 else
-  false
+  true
   end
 
 end
